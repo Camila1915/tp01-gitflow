@@ -1,1 +1,1 @@
-Cambio desde conflicto-b
+Cambio final después de resolver el conflicto
